@@ -1,5 +1,5 @@
 <?php
-$message = "LKM @ Accenture";
+$message = "Lets Learn PHP";
 
 ?>
 

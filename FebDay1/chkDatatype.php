@@ -1,6 +1,6 @@
 <?php
 $intVar = 1234;
-$name = "Rohit";
+$name = "Keen";
 
 echo is_int($intVar);
 echo "\n";

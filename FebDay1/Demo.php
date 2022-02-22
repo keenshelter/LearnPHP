@@ -3,7 +3,7 @@ print "Hi all
 welcome to
 PHP learning
 session";
-$name = "Latha";
+$name = "Keen";
 print("My name is ".$name);
 print("\n");
 print("Hello");
@@ -14,8 +14,8 @@ r u?";
 print 'Hi "folks"
 how
 r u?';
-$fname = "Latha";
-$lname = "B";
+$fname = "Keen";
+$lname = "Shelter";
 print "My name is ".$fname." ".$lname;
 ?>
 

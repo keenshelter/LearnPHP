@@ -6,7 +6,7 @@ $sum = $n1 + $n2;
 echo $sum;
 echo "\n";
 echo $id;
-$name = "Latha";
+$name = "keen";
 echo "\n";
 echo "My name is ".$name;
 echo "\n My name is ".$name;

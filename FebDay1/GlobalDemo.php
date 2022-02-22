@@ -1,5 +1,5 @@
 <?php
-$comp = "Accenture";    //Global variable
+$comp = "Git";    //Global variable
 //$x = 5;
 function globvar(){
     $x = 5;
