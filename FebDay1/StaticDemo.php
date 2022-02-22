@@ -13,3 +13,4 @@ function staticvar(){
 staticvar();
 //second call
 staticvar();
+?>

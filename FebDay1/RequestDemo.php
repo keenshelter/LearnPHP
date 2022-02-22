@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -16,8 +15,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         echo $name;
     }
 }
-
-
 
 ?>
 

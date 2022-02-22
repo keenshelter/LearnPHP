@@ -6,3 +6,4 @@ foreach($number as $element){
     }
     echo "$element\n";
 }
+?>
